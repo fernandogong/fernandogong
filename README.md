@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Ol%C3%A1%2C+%F0%9F%8C%8E!" alt="Typing SVG"/>
   </a>
   <!-- quantidade de views -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=juniorcavicchioli&color=red&style=flat"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=fernandogong&color=red&style=flat"/>
 </p>
 
 <!-- contatos -->
