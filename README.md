@@ -20,10 +20,6 @@
   </a>
 </p>
 
-<!-- reputacao -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandogong&show_icons=true&&theme=blue-green&bg_color=00000000&border_color=000000">
-</p>
 <!-- animacao da cobrinha -->
 <p align="center">
   <img src="https://github.com/fernandogong/fernandogong/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="margin: 0 auto;">
