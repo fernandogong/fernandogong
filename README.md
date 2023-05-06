@@ -22,7 +22,7 @@
 
 <!-- animacao da cobrinha -->
 <p align="center">
-  <img src="https://github.com/fernandogong/fernandogong/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="margin: 0 auto;">
+  <img src="github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 
